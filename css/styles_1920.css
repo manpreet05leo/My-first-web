@@ -1,0 +1,12 @@
+@media only screen and (min-width: 1900px) {
+
+  .FirstAnimationPicHide4 {
+    left: -4px;
+  }
+ 
+  
+ .test-class {
+   color: green;
+  font-size: 140px;
+  }
+}
