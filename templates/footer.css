@@ -1,0 +1,52 @@
+
+  footer
+  #topmenu {
+    list-style:none; 
+    text-align:center; 
+    padding-top:4px;
+    }
+    #topmenu li {
+    display:inline;
+    text-align: center;
+    font-size: 20px;
+    }
+    #topmenu a, #topmenu a:visited, #topmenu a:active {	
+    display:block;	
+    text-decoration:none; 
+    color:whitesmoke; 
+    float:left; 	
+    height:30px; 
+    padding:9px 15px 0px 17px; 
+    
+    }
+    #topmenu a:hover {
+    display:block; 
+    text-decoration:none; 
+    color:blueviolet; 
+    float:left; 
+    height:30px; 
+    padding:9px 15px 0px 17px; 
+  
+    }
+    #topmenu .active a, #topmenu .active a:visited, #topmenu .active a:active {
+    display:block; 
+    text-decoration:none; 
+    color:#333333; 
+    float:left; 
+    height:30px; 
+    padding:9px 15px 0px 17px; 
+    
+    }
+  
+  
+  
+  
+    .footerss {
+    
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: #111;
+      color:blueviolet;
+      text-align: center;
+   }
